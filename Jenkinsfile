@@ -13,6 +13,8 @@ pipeline {
                 echo 'Building...'
                 script {
                     colorize('HEllo World!','red')
+                    colorize('HEllo World!','green')
+                    colorize('HEllo World!','blue')
                 }
 
             }
