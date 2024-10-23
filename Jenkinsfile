@@ -1,4 +1,4 @@
-@library('colorize') _
+@Library('colorize') _ 
 
 pipeline {
     agent any 
