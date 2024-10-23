@@ -1,0 +1,1 @@
+![alt text](https://github.com/neomag/optimacros01-declarative-pipeline/blob/main/image.jpg?raw=true)
