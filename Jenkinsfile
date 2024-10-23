@@ -8,7 +8,7 @@ pipeline {
             steps {
                 echo 'Building...'
                 script {
-                    colorizeString('HEllo World!','red')
+                    colorize('HEllo World!','red')
                 }
 
             }
