@@ -11,13 +11,13 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building...'
-                echo 'set +x'
                 script {
                     colorize('HEllo World!','red')
                     colorize('HEllo World!','green')
                     colorize('HEllo World!','blue')
+                    colorize('HEllo World!','yellow')
                 }
-                echo 'set -x'
+                
 
             }
         }
