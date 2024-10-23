@@ -2,7 +2,7 @@ pipeline {
     agent any 
 
     libraries {
-        library 'my-shared-library'
+        library 'colorize'
     }
 
     stages {
